@@ -1,0 +1,5 @@
+# Gameplay
+
+## Game progression
+
+## Objectives
