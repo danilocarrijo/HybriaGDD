@@ -22,7 +22,7 @@ Spread across the levels the player will find (they’re all hidden) heart piece
 ### Items
 
 The player will find item to assist he on his journey, those items can be used to reveal a hidden locations to find collectables, heart pieces, magic pieces and dispel corruption. The items are:
-<ul style="list-style-type: none">
+<ul>
     <li>
         <b>Shove</b> – With the shovel the player can find items hidden the ground
     </li>

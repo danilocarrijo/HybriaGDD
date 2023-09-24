@@ -3,7 +3,7 @@
 
 ![joypadlayout](/assets/images/joypad.png)
 
-<ul style="list-style-type: none">
+<ul>
     <li>
         <b>L</b> - Mave along Axis
     </li>
@@ -23,7 +23,7 @@
 
 # Keyboard
 
-<ul style="list-style-type: none">
+<ul>
     <li>
         <b>W A S D</b> - Mave along Axis
     </li>
