@@ -20,6 +20,16 @@
     </ol></li>
 </ol>
 
+### Content
+
+#### Locations
+
+<ul style="list-style-type: none">
+    <li>
+        [Hybria](./Game%20Settings/Locations/Hybria.md)
+    </li>
+</ul>
+
 ### Theme
 
 The theme of the game is basic medieval with a small portion of steampunk, the main weapons are sword and shield, the player is a champion from a planet called Hybria, this planet holds the portal to a dimension called Void, in this dimension is trapped the corrupted lord Agares. Besides being a medieval game, the player will find more futuristic themes like space travel, in the same galaxy as exists others 11 planets and is possible to travel to these planets using portals (wormholes) present sin specific part of each planet. Each planet has its own theme, but the overall theme is the Zodiac theme, each planet represents a zodiac sign, with Hybrya the main planet representing the sign of Gemini.
